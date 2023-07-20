@@ -3,7 +3,7 @@ Die PIN eines Zweirichtungszählers vom Typ DWSB12.2 bruteforcen (klappt mglw. a
 
 ### Man braucht 
 * einen Raspi
-* eine LED an GPIO17, die man mit Klebeband vor der optischen Schnittstelle des Zählers befestigt.
+* eine LED nebst passendem Vorwiderstand an GPIO17, die man mit Klebeband vor der optischen Schnittstelle des Zählers befestigt.
 * eine USB Webcam, mit der man das Verhalten des Zählers direkt nach der Eingabe einer PIN beobachtet 
 
 ### Wie findet man damit die PIN?
