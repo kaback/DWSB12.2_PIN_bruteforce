@@ -17,4 +17,6 @@ Die PIN eines Zweirichtungszählers vom Typ DWSB12.2 bruteforcen (klappt mglw. a
 ### Warum?
 Mein Netzbetreiber hat es auch nach 3 Monaten nicht geschafft, mir die PIN mitzuteilen. Mit der oben dargelegten Methode hatte ich meine PIN nach 18 Stunden.
 
+### Versuchsaufbau
+Man sieht den Zähler mit der angetüdelten LED und dem Raspi, der mittels seines Netzteilkabels an der Tür einer Unterverteilung verankert wurde. Beobachtet wird der Zähler von einer USB Webcam, die mit Malerkrepp an einem schräg vor dem Zähler aufgestellten Brett befestigt wurde.
 ![Versuchsaufbau](https://github.com/kaback/DWSB12.2_PIN_bruteforce/blob/main/DWSB.jpg?raw=true)
